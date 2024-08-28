@@ -25,8 +25,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "hu",
-    locales: ["hu"],
+    defaultLocale: "hu-HU",
+    locales: ["hu-HU"],
   },
 
   presets: [
@@ -104,10 +104,10 @@ const config: Config = {
               label: "Fórum",
               href: "https://forum.fyremc.hu",
             },
-            {
-              label: "Wiki Szerkesztés",
-              to: "/docs/szerkesztes",
-            },
+            // {
+            //   label: "Wiki Szerkesztés",
+            //   to: "/docs/szerkesztes",
+            // },
           ],
         },
       ],
