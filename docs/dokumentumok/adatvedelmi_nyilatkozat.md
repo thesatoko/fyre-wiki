@@ -13,7 +13,7 @@ Adószám: 59797779-1-33
 Nyilvántartási szám: 57843410
 Székhely: 2118 DÁNY FŐ UTCA 87
 
-E-mail cím: e-mail@fyremc.hu
+E-mail cím: email@fyremc.hu
 Honlap: www.fyremc.hu (a továbbiakban: FyreMC.hu)
 
 Kiegészítő érme csomagok értékesítője:
