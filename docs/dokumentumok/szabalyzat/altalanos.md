@@ -5,6 +5,10 @@ description: A játékosokra vonatkozó szabályok és irányelvek a közösség
 
 # 🌏 Általános
 
+:::caution
+A szabályzat megszegése kitiltást von maga után. Reklamációt csak is Discord Ticket formájában fogadunk el!
+:::
+
 Játékszabályzat (Használati feltételek)
 Utolsó módosítás: 2024/06/02
 
