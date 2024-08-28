@@ -37,7 +37,7 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/risdn/fyre-wiki/",
+          editUrl: "https://github.com/risdn/fyre-wiki/tree/main/",
         },
       } satisfies Preset.Options,
     ],
