@@ -1,11 +1,12 @@
 ---
 sidebar_position: 4
+description: A szerveren megtalálható rangok leírása.
 ---
 
 # 👑 Rangok
 
 > A szerveren megtalálhatóak megvásárolható és nem megvásárolható rangok.
-> A megvásárolható rangokat a [FyreCenterben](https://account.fyremc.hu/rangok) tudod megvásárolni.
+> A megvásárolható rangokat a [FyreCenterben](https://account.fyremc.hu/rangok) tudod megvásárolni. Itt láthatod a rangok jogait is.
 
 <br />
 
