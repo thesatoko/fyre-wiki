@@ -3,7 +3,7 @@ sidebar_position: 6
 description: A Creative játékmódra vonatkozó szabályzat.
 ---
 
-# ⚔ Creative
+# 🏡 Creative
 
 7.1 Tilos az AFK rendszer kijátszása! (Értsd: szerkezetek építése, ugrálás, stb.)
 
