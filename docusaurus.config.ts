@@ -107,10 +107,10 @@ const config: Config = {
               label: "Fórum",
               href: "https://forum.fyremc.hu",
             },
-            // {
-            //   label: "Wiki Szerkesztés",
-            //   to: "/docs/szerkesztes",
-            // },
+            {
+              label: "Wiki Szerkesztés",
+              to: "/docs/wiki_szerkesztes",
+            },
           ],
         },
       ],
