@@ -52,8 +52,7 @@ Ha helyesen követted az instrukciókat, akkor sikerült is az összekötés.
 
 A Discord szerverünkön tudsz segítséget is kérni. Ehhez mindössze egy hibajegyet kell nyitnod, ahol vázolnod kell a problémádat.
 :::warning
-Kérlek ticketet csak akkor nyiss, ha tényleg kell segítség. Bizonyos ticketeket (pl fellebbezéseket) csak is összekötött felhasználó esetén tudunk kezelni. Játékos jelentések esetében kérlek küldj bizonyítékokat is, és csak akkor nyiss ticketet, ha rendelkezel releváns bizonyítékokkal, ami kép esetén vágatlan, látható rajta minden egyes részlet, és látható a scoreboardon az idő, videó esetében legalább 30 másodperces, vágatlan, és jól látható rajta minden részlet.
-:::
+Kérlek ticketet csak akkor nyiss, ha tényleg kell segítség. Bizonyos ticketeket (pl fellebbezéseket) csak is összekötött felhasználó esetén tudunk kezelni. Játékos jelentések esetében kérlek küldj bizonyítékokat is, és csak akkor nyiss ticketet, ha rendelkezel releváns bizonyítékokkal, ami kép esetén vágatlan, látható rajta minden egyes részlet, és látható a scoreboardon az idő, videó esetében legalább 30 másodperces, vágatlan, és jól látható rajta minden részlet. :::
 
 1. Lépj be a **[hibajegy-létrehozása](https://discord.com/channels/483624799742984193/1248680366449885296)** szobába és kattints a **hibajegy létrehozása** gombra!
 
