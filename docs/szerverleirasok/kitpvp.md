@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: Itt találod meg a Kitpvp szerver leírását, illetve néhány hasznos tippet és trükköt.
+description: Itt találod meg a KitPvP szerver leírását, illetve néhány hasznos tippet és trükköt.
 ---
 
 # ⚔️ KitPvP
