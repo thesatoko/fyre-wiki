@@ -14,7 +14,7 @@ Ha része szeretnél lenni a Fyremc Discord közösségének, akkor kövesd az a
 ### Csatlakozás
 
 1. Keresd fel a https://dc.fyremc.hu/ linket.
-2. Kattints a Join Fyremc gombra.
+2. Kattints a Join FyreMC gombra.
 
    <img src="/img/szerverleirasok/belepes.png" width="620"></img>
 
