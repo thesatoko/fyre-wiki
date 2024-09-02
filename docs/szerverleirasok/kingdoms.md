@@ -106,7 +106,3 @@ Foglalj el falukat, ennek segítségével sok falusira tehetsz szert.
 Köss szövetségeket más királyságokkal, és igázzátok le a közös ellenségeteket!
 
 Ostromold meg a szomszéd királyságot, így védekezve az ostrom ellen.
-
-```
-
-```
