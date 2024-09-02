@@ -15,9 +15,13 @@ Ha része szeretnél lenni a Fyremc Discord közösségének, akkor kövesd az a
 
 1. Keresd fel a https://dc.fyremc.hu/ linket.
 2. Kattints a Join Fyremc gombra.
-    <img src="/docs/szerverleirasok/img/belepes.png" width="620"></img>
-3. Válaszd ki az érdekelt szervereket.
-    <img src="/docs/szerverleirasok/img/rangvalaszto.png" width="620"></img>
+
+   <img src="/docs/szerverleirasok/img/belepes.png" width="620"></img>
+   
+4. Válaszd ki az érdekelt szervereket.
+
+   <img src="/docs/szerverleirasok/img/rangvalaszto.png" width="620"></img>
+   
 Ha minden sikerült, akkor már a szerver tagja is vagy. Jó szórakozást!
 
 ### Összekötés
@@ -25,13 +29,21 @@ Ha minden sikerült, akkor már a szerver tagja is vagy. Jó szórakozást!
 Sok funkció csak is összekötés után működik, ehhez nyújtok most segítséget.
 
 1. Írd be a /link parancsot és küld el a **[bot-parancsok](https://discord.com/channels/483624799742984193/687678462164860949)** szobába!
+
     <img src="/docs/szerverleirasok/img/link.png" width="620"></img>
+    
 2. Kattints a bot által küldött linkre!
+   
     <img src="/docs/szerverleirasok/img/osszekotes2.png" width="620"></img>
+    
 3. Jelentkezz be.
+   
     <img src="/docs/szerverleirasok/img/bejelentkezes.png" width="620"></img>
+    
 4. Kattints a **mehet** gombra!
+
     <img src="/docs/szerverleirasok/img/mehet.png" width="620"></img>
+    
 5. Írd be a /update parancsot Discordon.
 
 Ha helyesen követted az instrukciókat, akkor sikerült is az összekötés.
@@ -44,9 +56,15 @@ Kérlek ticketet csak akkor nyiss, ha tényleg kell segítség. Bizonyos tickete
 :::
 
 1. Lépj be a **[hibajegy-létrehozása](https://discord.com/channels/483624799742984193/1248680366449885296)** szobába és kattints a **hibajegy létrehozása** gombra!
-    <img src="/docs/szerverleirasok/img/ticket.png" width="620"></img>
+
+   <img src="/docs/szerverleirasok/img/ticket.png" width="620"></img>
+   
 2. Írd le a SAJÁT játékosnevedet, illetve írd le a problémád részletes leírását. Ez után kattints a Submit vagy Küldés gombra.
-    <img src="/docs/szerverleirasok/img/nyitas.png" width="620"></img>
+    
+        <img src="/docs/szerverleirasok/img/nyitas.png" width="620"></img>
+   
 3. Lépj be az újonnan létrehozott ticketbe, és válaszd ki a problémád kategóriáját!
+
         <img src="/docs/szerverleirasok/img/kategoria.png" width="620"></img>
+   
 Készen is vagyunk, a ticket létre is lett hozva. Kérlek várj türelmesen!
