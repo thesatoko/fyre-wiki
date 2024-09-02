@@ -61,10 +61,10 @@ Kérlek ticketet csak akkor nyiss, ha tényleg kell segítség. Bizonyos tickete
    
 2. Írd le a SAJÁT játékosnevedet, illetve írd le a problémád részletes leírását. Ez után kattints a Submit vagy Küldés gombra.
     
-        <img src="/docs/szerverleirasok/img/nyitas.png" width="620"></img>
+   <img src="/docs/szerverleirasok/img/nyitas.png" width="620"></img>
    
 3. Lépj be az újonnan létrehozott ticketbe, és válaszd ki a problémád kategóriáját!
 
-        <img src="/docs/szerverleirasok/img/kategoria.png" width="620"></img>
+   <img src="/docs/szerverleirasok/img/kategoria.png" width="620"></img>
    
 Készen is vagyunk, a ticket létre is lett hozva. Kérlek várj türelmesen!
