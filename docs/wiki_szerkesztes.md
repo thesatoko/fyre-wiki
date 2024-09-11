@@ -17,7 +17,7 @@ Ha bár mindenki hozzájárulhat a szerkesztéshez, nem ajánljuk mindenkinek. K
 
 <ul>
    <li>Ha például elírási hibát találsz, azt javíthatod.</li>
-   <li>Ha esetleg tartalmi hibát találsz, azt is ki javíthatod.</li>
+   <li>Ha esetleg tartalmi hibát találsz, azt is kijavíthatod.</li>
    <li>Ha új tartalmat, leírást adnál hozzá egy oldalhoz.</li>
    <li>Tulajdonképpen bármilyen esetben, amikor úgy érzed, hogy valami hiányzik/nem jó.</li>
 </ul>
@@ -167,5 +167,5 @@ Ezután csak nyisd meg a mappát ahol a klón van, nyiss egy terminál-t és ír
 A változtatásaidat a fent említett módon tudod kérvényezni, hogy bekerüljön. (Commit majd Pull Request).
 
 :::danger
-Fontos! Minden alkalommal, amikor neki állsz szerkeszteni valamit fontos, hogy előtte szinkronba hozd a fent lévőt a te másolatoddal. Erre azért van szükség, hogy már az élesbe került változtatásokat ne írd felül. Az ilyet tartalmazó Pull Request-ek nem fognak bekerülni.
+Fontos! Minden alkalommal, amikor nekiállsz szerkeszteni valamit fontos, hogy előtte szinkronba hozd a fent lévőt a te másolatoddal. Erre azért van szükség, hogy már az élesbe került változtatásokat ne írd felül. Az ilyet tartalmazó Pull Request-ek nem fognak bekerülni.
 :::
