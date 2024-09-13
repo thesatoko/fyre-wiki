@@ -25,14 +25,6 @@ Nyilvántartási szám: 58300055
 Adószám: 45714977-1-42
 Kamara: Kamara: Budapesti Kereskedelmi és Iparkamara (BKIK)
 
-Digitális kuponok és kedvezmények üzemeltetője:  
-Név: Peti Marcell EV.
-Székhely / levelezési cím: 7691 Pécs, Csap utca 45.
-Nyilvántartásba bejegyző hatóság: Nemzeti Adó- és Vámhivatal Baranya Vármegyei Adó- és Vámigazgatósága
-Nyilvántartási szám: 58486902
-Adószám: 48200954-1-22
-Kamara: Baranya Megyei Kereskedelmi és Iparkamara
-
 Virtuális játék kiegészítő csomagok üzemeltetője:
 Név: Papasvili György Armen EV.
 Székhely / levelezési cím: 5600 Békéscsaba, Pitypang utca 15.
