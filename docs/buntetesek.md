@@ -12,6 +12,7 @@ sidebar_position: 5
 >Némítások (2 hónap alatt megy le 1 szintet)
 
 |      Indok         | 1. szint | 2. szint | 3. szint | 4. szint |    5. szint     |    6. szint     |
+|--------------------|----------|----------|----------|----------|-----------------|-----------------|
 |    Káromkodás      | 45 perc  | 60 perc  |  2 óra   |  3 óra   |               4 óra              ||
 | Sértegetés/szidás  | 90 perc  |  3 óra   |  12 óra  |   1 nap  |      7 nap      |      14 nap     |
 |       Spam         | 30 perc  | 60 perc  | 90 perc  |   2 óra  |               3 óra              ||
