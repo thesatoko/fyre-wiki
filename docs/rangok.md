@@ -33,7 +33,7 @@ Minden nem limitált megvásárolható rang 30 napra szól. 90 napra való vás�
 
 # Staff rangok
 
-> A staff rangokat megvásárolni **nem** lehet. Jelentkezni staff-nak a jelentkezési időszak alatt lehet a [fórumon](https://forum.fyremc.hu). Képességeik, jogaik és hatásköreik eltérhetnek egymástól így nem minden staff képes minden feladatot ellátni. Elsősorban a sikeres staff tagfelvétel után mindenki **Junior Moderator**-ként kezdi majd későbbiekben teljesítmény alapján léphet feljebb. Kitartó önfeláldozó munkájukat természetesen jutalmazzuk.
+> A staff rangokat megvásárolni **nem** lehet. Jelentkezni staff-nak a jelentkezési időszak alatt lehet, ez [Discordon](https://discord.com/channels/483624799742984193/1247183854331105380) lesz bejelentve. Képességeik, jogaik és hatásköreik eltérhetnek egymástól így nem minden staff képes minden feladatot ellátni. Elsősorban a sikeres staff tagfelvétel után mindenki **Junior Moderator**-ként kezdi majd későbbiekben teljesítmény alapján léphet feljebb. Kitartó önfeláldozó munkájukat természetesen jutalmazzuk.
 
 | Junior Moderator | Moderator | Moderator+ | Admin | Admin+ |
 | ---------------- | --------- | ---------- | ----- | ------ |
@@ -42,7 +42,7 @@ Minden nem limitált megvásárolható rang 30 napra szól. 90 napra való vás�
 
 # Builder rangok
 
-> A Builder rang azoké, akik építményeikkel járulnak hozzá a szerver fejlődéséhez. Ők építik a szerveren található pályákat, lobby-kat stb.
+> A Builder rang azoké, akik építményeikkel járulnak hozzá a szerver fejlődéséhez. Ők építik a szerveren található pályákat, lobby-kat stb. A jelentkezéshez szükséges információk megtalálhatóak [Discordon](https://discord.com/channels/483624799742984193/1150509744788873329).
 
 | Builder | Builder+ |
 | ------- | -------- |
@@ -71,7 +71,7 @@ Minden nem limitált megvásárolható rang 30 napra szól. 90 napra való vás�
 
 > A Veterán rang azoknak jár, akik huzamosabb időt töltöttek el a Staff, Builder vagy a Vezetőségi csapatban.
 
-> A Media és a Media+ azoknak jár, akik minőségi tartalmat gyártanak a szerverről. Jelentkezés erre a pozícióra bármikor nyitva áll.
+> A Media és a Media+ azoknak jár, akik minőségi tartalmat gyártanak a szerverről. Jelentkezés erre a pozícióra bármikor nyitva áll. Jelentkezni [Discordon](https://discord.com/channels/483624799742984193/652859956613087265) lehet.
 
 | Veteran | Media | Media+ |
 | ------- | ----- | ------ |
