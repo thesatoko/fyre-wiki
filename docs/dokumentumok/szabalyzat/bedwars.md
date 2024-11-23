@@ -18,3 +18,5 @@ description: A BedWars játékmódra vonatkozó szabályzat.
 3.6 Tilos becsapdázni a saját csapattársaidat!
 
 3.7 Tilos killfarmolni más játékoson!
+
+3.8 Tilos az időhúzás! (értsd: felépítés, föld alatt campelés)
