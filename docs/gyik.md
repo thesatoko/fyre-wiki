@@ -35,7 +35,7 @@ Ahhoz, hogy fellebbez, kötelességed a kitiltott felhasználóval összekötnö
 >A FyreMC webshopban egyszerre fizethetsz bankkártyával, a Barion fizetőfelületen, ami garantálja, hogy a bankkártyáddal való fizetés biztonságosan fog végremenni. Fizethetsz a PaySafeCard-dal is, a G2A webshop segítségével. Ez esetben egy kódot fogsz kapni, amit a [Kódbeváltás](https://account.fyremc.hu/kodbevaltas) oldalon tudsz beváltani.
 
 ### Mit tegyek, ha nem kaptam meg a megvásárolt terméket?
->Kérünk, győződj meg arról, hogy a vásárlástól eltelt legalább 2-3 óra. Ha eltelt, és az óta sem kaptad meg a terméket, kérünk írj egy emailt az [email@fyremc.hu](email@fyremc.hu) email címre, ahol írd le részletesen a problémádat, és ne felejtsd el a játékosnevedet is beleírni.
+>Kérünk, győződj meg arról, hogy a vásárlástól eltelt legalább 2-3 óra. Ha eltelt, és az óta sem kaptad meg a terméket, kérünk írj egy emailt az email@fyremc.hu email címre, ahol írd le részletesen a problémádat, és ne felejtsd el a játékosnevedet is beleírni.
 
 ### Szeretnék visszatérítést kérni. Ez lehetésges?
 >Ez helyzettől függ, viszont csak arra a FyreCoin vásárlásra tudunk visszatérítést adni, ami nem volt elköltve. A játékbeli vásárlásokra is ez igaz, ha például vettél egy lootboxot, és azt kinyitottad, akkor arra már nem tudunk FyreCoin visszatérítést adni.
