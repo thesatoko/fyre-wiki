@@ -16,12 +16,6 @@ Székhely: 2118 DÁNY FŐ UTCA 87
 E-mail cím: e-mail@fyremc.hu
 Telefonszám: +36 (30) 098-4004 (Nem ügyfélszolgálat)
 
-Kiegészítő érme csomagok értékesítője:
-Az adatfeldolgozó megnevezése: Román Benjámin EV.
-Az adatfeldolgozó székhelye: 1081 Budapest, Alföldi utca 18. 2em/47aj.
-Nyilvántartási szám: 58300055
-Adószám: 45714977-1-42
-
 Digitális termékek és VIP jogok szolgáltatója:
 Az adatfeldolgozó megnevezése: Csontos Gábor EV.
 Az adatfeldolgozó székhelye: 5000 Szolnok, Szellő utca 17.
@@ -222,8 +216,6 @@ g) a felhasználói szerződés azonnali felmondása.
 7.9 Az account.fyremc.hu weboldalon vásárolható „Digitális termékek és VIP jogok valamint virtuális rangok” értékesítését és üzemeltetését Csontos Gábor EV. végzi. A vásárlás közvetlenül az oldalról indítható, amely a Barion.com fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
 
 7.9.1 Az account.fyremc.hu weboldalon vásárolható „Digitális kuponok és kedvezmények” értékesítését és üzemeltetését Sebestyén Ádám EV. végzi. A vásárlás közvetlenül az oldalról indítható, amely a Barion.com fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
-
-7.9.2 Az account.fyremc.hu weboldalon vásárolható „Kiegészítő érme csomagok” értékesítését és üzemeltetését Román Benjámin EV. végzi. A vásárlás közvetlenül az oldalról indítható, amely a Barion.com fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
 
 7.9.2 Az account.fyremc.hu weboldalon vásárolható „Virtuális játék kiegészítő csomagok valamint virtuális prémium rangok” értékesítését és üzemeltetését Papasvili György Armen EV. végzi. A vásárlás közvetlenül az oldalról indítható, amely a Barion.com fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV.üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
 
