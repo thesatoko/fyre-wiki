@@ -5,7 +5,7 @@ description: A szerver használatának jogi feltételei és a felhasználói kö
 
 # 📋 Általános Szerződési Feltételek
 
-Hatályos: 2024.09.13.
+Hatályos: 2025.01.03.
 Weboldal és online játék
 működtető cég neve:
 Cégnév: Sebestyén Ádám EV.
