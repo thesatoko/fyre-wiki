@@ -16,12 +16,6 @@ Székhely: 2118 DÁNY FŐ UTCA 87
 E-mail cím: email@fyremc.hu
 Honlap: www.fyremc.hu (a továbbiakban: FyreMC.hu)
 
-Kiegészítő érme csomagok értékesítője:
-Az adatfeldolgozó megnevezése: Román Benjámin EV.
-Az adatfeldolgozó székhelye: 1081 Budapest, Alföldi utca 18. 2em/47aj.
-Nyilvántartási szám: 58300055
-Adószám: 45714977-1-42
-
 Digitális termékek és VIP jogok üzemeltetője:
 Az adatfeldolgozó megnevezése: Csontos Gábor EV.
 Az adatfeldolgozó székhelye: 5000 Szolnok, Szellő utca 17.
@@ -170,10 +164,6 @@ Az adatfeldolgozó e-mail címe: hello@billingo.hu
 Az Adatfeldolgozó az Adatkezelővel kötött szerződés alapján közreműködik a számviteli bizonylatok nyilvántartásában. Ennek során az Adatfeldolgozó az érintett nevét és címét a számviteli nyilvántartáshoz szükséges mértékben, a Sztv. 169. § (2) bekezdésének megfelelő időtartamban kezeli, ezt követően törli.
 
 Adatvédelmi rendelkezések a Sebestyén Ádám EV. partnereiről
-
-Kiegészítő érme csomagok értékesítője:
-Az adatfeldolgozó megnevezése: Román Benjámin EV.
-Az adatfeldolgozó székhelye: 1081 Budapest, Alföldi utca 18. 2em/47aj.
 
 Virtuális játék kiegészítő csomagok üzemeltetője:
 Az adatfeldolgozó megnevezése: Papasvili György Armen EV.
