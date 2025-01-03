@@ -5,7 +5,7 @@ description: Tájékoztatás arról, hogyan kezeljük és védjük a felhasznál
 
 # 🔏 Adatvédelmi nyilatkozat
 
-Adatvédelmi nyilatkozat (Hatályos: 2024.09.13.)
+Adatvédelmi nyilatkozat (Hatályos: 2025.01.03.)
 Az adatkezelő megnevezése:
 E tájékoztatás kiadója, egyben az Adatkezelő:
 Cégnév: Sebestyén Ádám EV.
