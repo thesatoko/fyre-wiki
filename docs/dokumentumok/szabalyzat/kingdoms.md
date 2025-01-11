@@ -33,6 +33,6 @@ description: A Kingdoms játékmódra vonatkozó szabályzat.
 
 11.14 Tilos killfarmolni más játékoson!
 
-11.15 A királyság neve nem tartalmazhat speciális karaktereket! (Értsd: olyan karakterek, amelyek nem tagjai a magyar ABC-nek)
+11.15 A királyság neve nem tartalmazhat speciális karaktereket! (Értsd: olyan karakterek, amelyek nem tagjai a magyar ABC-nek, az arab számoknak, stb.)
 
 11.16 Tilos átverni más játékosokat!
