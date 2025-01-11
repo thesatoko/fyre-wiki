@@ -7,7 +7,7 @@ description: A Kingdoms játékmódra vonatkozó szabályzat.
 
 11.1 Tilos az AFK rendszer kijátszása! (Értsd: szerkezetek építése, ugrálás, stb.)
 
-11.2 A királyság neve nem tartalmazhat trágár, sértő vagy 18+ tartalmat!
+11.2 A királyság neve nem tartalmazhat trágár, sértő, önkényuralmi jelképet, megkérdőjelezhető múltú történelmi személyt vagy 18+ tartalmat!
 
 11.3 A FyreMC.hu nem vállal felelősséget azért, ha harc közben kilépsz vagy kifagysz és nem ad vissza tárgyakat.
 
@@ -28,3 +28,11 @@ description: A Kingdoms játékmódra vonatkozó szabályzat.
 11.11 Tilos trágár, sértő vagy 18+ tartalmú építményt megépíteni! (Pl.: Horogkereszt)
 
 11.12 Tilos az F3+T billentyűkonbináció használata!
+
+11.13 Tilos a vadonrongálás! (Értsd: TnT használata a vadonban, gyújtogatás, stb.)
+
+11.14 Tilos killfarmolni más játékoson!
+
+11.15 A királyság neve nem tartalmazhat speciális karaktereket! (Értsd: olyan karakterek, amelyek nem tagjai a magyar ABC-nek)
+
+11.16 Tilos átverni más játékosokat!
