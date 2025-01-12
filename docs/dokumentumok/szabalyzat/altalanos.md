@@ -10,7 +10,7 @@ A szabályzat megszegése kitiltást von maga után. Reklamációt csak is Disco
 :::
 
 Játékszabályzat (Használati feltételek)
-Utolsó módosítás: 2024/06/02
+Utolsó módosítás: 2025/01/11
 
 A FyreMC.hu (Sebestyén Ádám EV., 2118 DÁNY FŐ UTCA 875., Adószám: 59797779-1-33, Nyilvántartási szám: 57843410) a hozzá tartozó weboldalakon közzétett Online játékok és egyéb szolgáltatások használatát az alábbiak szerint határozza meg:
 
