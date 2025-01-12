@@ -66,7 +66,7 @@ Ahhoz, hogy fellebbez, kötelességed a kitiltott felhasználóval összekötnö
 ## ⛏️| Szerver problémák
 
 ### Átvertek, ezért kapok visszatérítést?
->Sajnos gyakran történik ilyen eset, viszont csak az esetek kicsiny részénél tudunk ténylegesen visszatérítést vagy kárpótlást adni. Először is, ajánljuk, hogy az aukciós házban listázott termékről, vagy az aukciós házban folytatott kereskedelemről készíts képernyő képet vagy képernyő felvétel, így ha esetlegesen átvertek, akkor tudod azt bizonyítani. Viszont ha az átverés az aukciós házon kívűl lett végrehajtva, akkor sajnos nem tudunk visszatérítéssel szollgálni.
+>Sajnos gyakran történik ilyen eset, viszont csak az esetek kicsiny részénél tudunk ténylegesen visszatérítést vagy kárpótlást adni. Először is, ajánljuk, hogy az aukciós házban listázott termékről, vagy az aukciós házban folytatott kereskedelemről készíts képernyő képet vagy képernyő felvétel, így ha esetlegesen átvertek, akkor tudod azt bizonyítani. Viszont ha az átverés az aukciós házon kívűl lett végrehajtva, akkor sajnos nem tudunk visszatérítéssel szolgálni.
 
 ### Kifagytam, kiléptem vagy ledobott harc közben.
->Ebben az esetben is helyzettől függ. Ha a szerver hibájából dob le, akkor nagy valószinűséggel kaphatsz visszatérítést abban az esetben, ha van a ledobástól visszamenőleg 90 másodperces videófelvételed. Abban az esetben, ha a probléma nálad történik, nem tudunk visszatérítéssel szolgállni
+>Ebben az esetben is helyzettől függ. Ha a szerver hibájából dob le, akkor nagy valószinűséggel kaphatsz visszatérítést abban az esetben, ha van a ledobástól visszamenőleg 90 másodperces videófelvételed. Abban az esetben, ha a probléma nálad történik, nem tudunk visszatérítéssel szolgálni
