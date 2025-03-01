@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 description: A szerver tulajdonosának és üzemeltetőjének hivatalos adatai és elérhetőségei.
 ---
 
@@ -16,22 +16,6 @@ Internet: www.fyremc.hu
 Tárhelyszolgáltató: RACKFOREST ZRT. (1132 Budapest, Victor Hugo utca 11. 5. em. B05001., +36-1-211-0044, info@rackforest.com)
 Online vitarendezési platform:
 https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=HU
-
-Kiegészítő érme csomagok értékesítése:
-Név: Román Benjámin EV.
-Székhely / levelezési cím: 1081 Budapest, Alföldi utca 18. 2em/47aj.
-Nyilvántartásba bejegyző hatóság: Nemzeti Adó- és Vámhivatal Pest Vármegyei Adó- és Vámigazgatósága
-Nyilvántartási szám: 58300055
-Adószám: 45714977-1-42
-Kamara: Kamara: Budapesti Kereskedelmi és Iparkamara (BKIK)
-
-Digitális kuponok és kedvezmények üzemeltetője:  
-Név: Peti Marcell EV.
-Székhely / levelezési cím: 7691 Pécs, Csap utca 45.
-Nyilvántartásba bejegyző hatóság: Nemzeti Adó- és Vámhivatal Baranya Vármegyei Adó- és Vámigazgatósága
-Nyilvántartási szám: 58486902
-Adószám: 48200954-1-22
-Kamara: Baranya Megyei Kereskedelmi és Iparkamara
 
 Virtuális játék kiegészítő csomagok üzemeltetője:
 Név: Papasvili György Armen EV.

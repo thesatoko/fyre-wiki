@@ -5,16 +5,16 @@ description: Itt találod meg a Discord szerver leírását, illetve néhány ha
 
 # 🎧 Discord
 
-> A Discord egy csevegő platform, amit főleg fiatal közösségek szoktak használni mivel a használata egyszerű, viszont rengeteg hasznos funció van benne. A Fyremc hivatalos kommunikációsfelülete is a Discordon van. A Fyremc Discord szerverén cseveghetsz más játékosokkal mind a közös-chaten, mind a voice szobákban, segítséget kérhetsz a staffoktól, javaslatokat írhatsz, stb.
+> A Discord egy csevegő platform, amit főleg fiatal közösségek szoktak használni mivel a használata egyszerű, viszont rengeteg hasznos funció van benne. A FyreMC hivatalos kommunikációsfelülete is a Discordon van. A FyreMC Discord szerverén cseveghetsz más játékosokkal mind a közös-chaten, mind a voice szobákban, segítséget kérhetsz a staffoktól, javaslatokat írhatsz, stb.
 
 ## Csatlakozás és összekötés
 
-Ha része szeretnél lenni a Fyremc Discord közösségének, akkor kövesd az alábbi útmutatót!
+Ha része szeretnél lenni a FyreMC Discord közösségének, akkor kövesd az alábbi útmutatót!
 
 ### Csatlakozás
 
 1. Keresd fel a https://dc.fyremc.hu/ linket.
-2. Kattints a Join Fyremc gombra.
+2. Kattints a Join FyreMC gombra.
 
    <img src="/img/szerverleirasok/belepes.png" width="620"></img>
 

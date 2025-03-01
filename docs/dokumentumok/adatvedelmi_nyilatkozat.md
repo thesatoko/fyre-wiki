@@ -5,7 +5,7 @@ description: Tájékoztatás arról, hogyan kezeljük és védjük a felhasznál
 
 # 🔏 Adatvédelmi nyilatkozat
 
-Adatvédelmi nyilatkozat (Hatályos: 2024.06.17.)
+Adatvédelmi nyilatkozat (Hatályos: 2025.01.03.)
 Az adatkezelő megnevezése:
 E tájékoztatás kiadója, egyben az Adatkezelő:
 Cégnév: Sebestyén Ádám EV.
@@ -16,23 +16,11 @@ Székhely: 2118 DÁNY FŐ UTCA 87
 E-mail cím: email@fyremc.hu
 Honlap: www.fyremc.hu (a továbbiakban: FyreMC.hu)
 
-Kiegészítő érme csomagok értékesítője:
-Az adatfeldolgozó megnevezése: Román Benjámin EV.
-Az adatfeldolgozó székhelye: 1081 Budapest, Alföldi utca 18. 2em/47aj.
-Nyilvántartási szám: 58300055
-Adószám: 45714977-1-42
-
 Digitális termékek és VIP jogok üzemeltetője:
 Az adatfeldolgozó megnevezése: Csontos Gábor EV.
 Az adatfeldolgozó székhelye: 5000 Szolnok, Szellő utca 17.
 Nyilvántartási szám: 52816710
 Adószám: 71654915-1-36
-
-Digitális kuponok és kedvezmények üzemeltetője:
-Az adatfeldolgozó megnevezése: Peti Marcell EV.
-Az adatfeldolgozó székhelye: 7691 Pécs, Csap utca 45.
-Nyilvántartási szám: 58486902
-Adószám: 48200954-1-22
 
 Virtuális játék kiegészítő csomagok üzemeltetője:
 Az adatfeldolgozó megnevezése: Papasvili György Armen EV.
@@ -177,10 +165,6 @@ Az Adatfeldolgozó az Adatkezelővel kötött szerződés alapján közreműköd
 
 Adatvédelmi rendelkezések a Sebestyén Ádám EV. partnereiről
 
-Kiegészítő érme csomagok értékesítője:
-Az adatfeldolgozó megnevezése: Román Benjámin EV.
-Az adatfeldolgozó székhelye: 1081 Budapest, Alföldi utca 18. 2em/47aj.
-
 Virtuális játék kiegészítő csomagok üzemeltetője:
 Az adatfeldolgozó megnevezése: Papasvili György Armen EV.
 Az adatfeldolgozó székhelye: 5600 Békéscsaba, Pitypang utca 15.
@@ -188,10 +172,6 @@ Az adatfeldolgozó székhelye: 5600 Békéscsaba, Pitypang utca 15.
 Digitális termékek és VIP jogok szolgáltatója:
 Az adatfeldolgozó megnevezése: Csontos Gábor EV.
 Az adatfeldolgozó székhelye: 5000 Szolnok, Szellő utca 17.
-
-Digitális kuponok és kedvezmények szolgáltatója:
-Az adatfeldolgozó megnevezése: Peti Marcell EV.
-Az adatfeldolgozó székhelye: 7691 Pécs, Csap utca 45.
 
 Az Adatfeldolgozóval (Sebestyén Ádám EV.) kötött szerződés alapján a Partnerek az online játékhoz kapcsolódó egyes elemek, érmék, kuponok és kiegészítők üzemeltetését és értékesítését végzi. Ennek során az Adatfeldolgozó partnerek az érintett számlázási nevét, e-mail címét és számlázási címét, a rendelés számát és időpontját a polgári jogi elévülési időn belül kezeli. Jelen Adatkezelési tájékoztatóban foglaltak a Sebestyén Ádám EV. partnereire is teljeskörűen értendő.
 

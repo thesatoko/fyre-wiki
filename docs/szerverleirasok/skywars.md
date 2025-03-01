@@ -5,7 +5,7 @@ description: Itt találod meg a SkyWars szerver leírását, illetve néhány ha
 
 # 🏝️SkyWars
 
-A Fyremc Skywars egy egyedi SkyWars szerver, amely saját építésű pályákon, saját fejlesztésű játékmenet alapján játszódik. Két játékmód közül lehet választani, a Solo és a Duo.
+A FyreMC SkyWars egy egyedi SkyWars szerver, amely saját építésű pályákon, saját fejlesztésű játékmenet alapján játszódik. Két játékmód közül lehet választani, a Solo és a Duo.
 
 ## SkyWars leírás
 
