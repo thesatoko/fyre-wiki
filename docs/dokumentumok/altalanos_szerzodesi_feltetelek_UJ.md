@@ -314,7 +314,7 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 
 **12.3** A szerverre felcsatlakozva elfogadja az online szabályzatot!
 
-##13. Online fizetés szolgáltatás leírása, megnevezése 
+## 13. Online fizetés szolgáltatás leírása, megnevezése 
 **13.1** A FyreMC.hu (account.fyremc.hu) oldalon Emelt Díjas Hívással "FyreCoin-t" ("coin") lehet vásárolni. Ez a virtuális kredit a FyreMC.hu számítógépre letölthető klienséből elérhető játékszerverén (play.fyremc.hu) használható fel. Minden emelt díjas hívás egyszeri (nem perc alapú) díjfizetéssel jár. A FyreCoin különböző játékbeli képességekre vagy egyedi rangra lehet beváltani. A FyreCoin-t a felhasználó attól függően, hogy milyen képesség megszerzésére vagy rangra használta fel, a szolgáltatás ideje minimum 1 hónap.
 
 **Az igénybevétel módja:** emelt díjas hívás (nem perc alapú). A szolgáltatás Magyarországról érhető el.
