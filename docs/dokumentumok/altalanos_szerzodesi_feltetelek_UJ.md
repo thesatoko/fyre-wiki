@@ -3,7 +3,7 @@ sidebar_position: 4
 description: A szerver használatának jogi feltételei és a felhasználói kötelezettségek részletezése.
 ---
 
-# 📋 (ÚJ) FyreMC.hu Általános Szerződési Feltételei 
+# 📋 FyreMC.hu Általános Szerződési Feltételei 
 
 **Hatályba lépésének időpontja:** 2025. év március hó 15. napján
 
