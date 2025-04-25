@@ -22,7 +22,7 @@ A FyreMC.hu (Sebestyén Ádám EV., 2118 DÁNY FŐ UTCA 875., Adószám: 5979777
 
 1.3 A szerverre felcsatlakozva elfogadod az online szabályzatot!
 
-1.4 Kliens kitiltás esetén a játékos ki van zárva a kliensből, ameddig az ideje le nem jár! Tilos ez idő alatt a játékosnak bármilyen formában is a szerveren tartózkodni! Amennyiben tudomásunkra jut, a kitiltás idejét megduplázzuk!
+1.4 Kliens kitiltás esetén a játékos ki van zárva a kliensből, ameddig az ideje le nem jár! Tilos ez idő alatt a játékosnak bármilyen formában is a szerveren tartózkodni! 
 
 1.5 Ha kettő, vagy több ember (pl: testvérek) egy számítógépről játszik és valaki közülük kliens kitiltást kap, akkor a többi személy sem csatlakozhat a szerverre!
 
