@@ -30,3 +30,5 @@ description: A Fyland játékmódra vonatkozó szabályzat.
 8.12 Tilos trágár, sértő vagy 18+ tartalmú szöveget írni táblára!
 
 8.13 Tilos trágár, sértő vagy 18+ tartalmú építményt megépíteni!
+
+8.14 Tilos megtévesztő/trágár névvel ellátott tárgyakat felrakni az aukciósházra.
