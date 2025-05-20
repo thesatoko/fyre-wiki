@@ -33,6 +33,4 @@ description: A KitPvP játékmódra vonatkozó szabályzat.
 
 5.14 Duel-ben tilos a csatatéren (barrier-en) kívülre menni! Amennyiben nincs lehetséges út, hogy visszamenj a harctérre, akkor ki kell lépned a szerverről! Ez a /lobby paranccsal vagy a szerver elhagyásával történhet meg.
 
-5.15 Más játékosokkal és guildekkel összefogni tilos!
-
-5.16 Tilos megtévesztő/trágár névvel ellátott tárgyakat felrakni az aukciósházra.
+5.15 Tilos megtévesztő/trágár névvel ellátott tárgyakat felrakni az aukciósházra.
