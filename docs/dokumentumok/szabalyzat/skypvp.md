@@ -26,3 +26,5 @@ description: A SkyPvP játékmódra vonatkozó szabályzat.
 10.10 A Boss-okat tilos az arénán kívülről ütni vagy lőni.
 
 10.11 Tilos a spawnkill!
+
+10.12 Tilos megtévesztő/trágár névvel ellátott tárgyakat felrakni az aukciósházra.
